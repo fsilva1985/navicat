@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Navicat Premium
+Comment=Powerful database management & design tool.
+Exec=sh -c "dconf reset -f /com/premiumsoft/navicat-premium/; rm /home/felipe/.config/navicat/Premium/preferences.json; /home/felipe/navicat/navicat16-premium-en.AppImage"
+Terminal=false
+Type=Application
+Icon=/home/felipe/navicat/navicat-icon.png
